@@ -1,0 +1,10 @@
+{
+  "name": "Noor",
+  "description": "Your Daily Companion Towards Allah. A modern Islamic app with Prayer times, Qibla, Quran, Duas, Learn Salah, Women's section, Dhikr counter, Mood-based AI Quran guidance, Ramadan planner, and progress dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
